@@ -11,8 +11,6 @@ export class ListaUsuariosComponent {
 }
 ```
 
-
-
 **Nova forma**
 
 ```shell
