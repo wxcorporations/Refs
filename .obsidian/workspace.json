@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "3b2c57311fa68569",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c880cf938cf5571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552ad2a3b0dde904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANGULAR/CLI SCAFFOLDING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLI SCAFFOLDING"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e489d45811ca2a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "49080760476d3d5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3dae209a52e9c32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff2f659836be6506",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0a77d6f94e6138b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5
+  },
+  "right": {
+    "id": "75324f28d97d1890",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2560d922730bd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f99d89d2f074ee69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SERVIDOR/NGIXN/infor.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for infor"
+            }
+          },
+          {
+            "id": "9e21a7cd7346beb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOCKER/Docker file.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docker file"
+            }
+          },
+          {
+            "id": "2fec1dbcb324a86c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "031cb2bba27b02a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOCKER/Docker file.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker file"
+            }
+          },
+          {
+            "id": "cfeffb347aafad9b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "PYTHON/Flask.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "552ad2a3b0dde904",
+  "lastOpenFiles": [
+    "README.md",
+    "ANGULAR/Ciclo de vida.md",
+    "ANGULAR/Templates html.md",
+    "ANGULAR/Serviços.md",
+    "ANGULAR/Rotas.md",
+    "ANGULAR/Props.md",
+    "ANGULAR/Componente dinâmico.md",
+    "assets/Pasted image 20251203002315.png",
+    "assets/Pasted image 20251203002305.png",
+    "assets/Pasted image 20251203002158.png",
+    "assets/Pasted image 20251203001755.png",
+    "assets/Pasted image 20251203001458.png",
+    "assets/Pasted image 20251203001332.png",
+    "ANGULAR/Lazy load.md",
+    "ANGULAR/Inteporlação de dados no template.md",
+    "ANGULAR/Eventos.md",
+    "ANGULAR/Diretivas.md",
+    "guia-frontend-moderno.md",
+    "MELHORIAS PERFOMACE OCTO-PLAY.md",
+    "ANGULAR/CLI SCAFFOLDING.md",
+    "ANGULAR",
+    "Loaders-sass-css.md",
+    "OWASP-Top-10-Guide.md",
+    "PYTHON/Basico.md",
+    "CLOUND-AWS.xmind",
+    "owasp top 10.xmind",
+    "CLOUD-AWS.xmind",
+    "GIT-HUB-ACTION-MAPA-MENTAL.xmind",
+    "Entrevista ELO.md",
+    "Não confirmado 116258.crdownload",
+    "PYTHON/Flask.md",
+    "Excalidraw/Drawing 2025-11-08 20.33.39.excalidraw.md",
+    "assets/Pasted image 20251107185540.png",
+    "LIBS/Google analitics GA4.md",
+    "PYTHON",
+    "WEBPACK/Otimizando CSS.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-10-27 15.28.44.excalidraw.md",
+    "assets/Pasted Image 20251027153053_871.png",
+    "assets/Pasted Image 20251027152908_144.png",
+    "assets/Pasted image 20251027152805.png",
+    "WEBPACK/Plugins.md",
+    "WEBPACK/MiniCssExtractPlugin.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled 1.canvas"
+  ]
+}
